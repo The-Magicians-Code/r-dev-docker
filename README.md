@@ -5,6 +5,10 @@ Create container
 ````
 bash run.sh
 ````
+View the container
+````
+docker ps
+````
 Attach to the built container
 ````
 bash attach.sh
